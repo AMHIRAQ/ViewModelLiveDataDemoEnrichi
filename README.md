@@ -3,6 +3,13 @@
 > Projet Android Java — Lab complet ViewModel + LiveData (Jetpack)  
 > Basé sur le guide du cours · API 24+ · Material 3
 
+
+---
+
+
+https://github.com/user-attachments/assets/e059547a-d6e4-496c-8558-51a86022d115
+
+
 ---
 
 ## Structure du projet
